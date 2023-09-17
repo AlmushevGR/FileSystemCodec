@@ -2,6 +2,6 @@
 
 int main() 
 {
-  std::cout << "SSH test2" << std::endl;
+  std::cout << "SSH test3" << std::endl;
   return 0;
 }
